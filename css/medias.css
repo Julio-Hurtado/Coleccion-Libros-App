@@ -1,0 +1,24 @@
+@media (min-width: 424px) {
+  .form-libro {
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+@media (min-width: 760px) {
+  .table {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .form-label,
+  .form-text,
+  .table-primary tbody {
+    font-size: 1.14rem;
+  }
+  .btn{
+    margin-top: 5px;
+  }
+  .alert{
+    font-size:1.15rem;
+  }
+}
